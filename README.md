@@ -16,14 +16,14 @@ Aplikasi web interaktif untuk mempelajari dan mencoba berbagai algoritma kriptog
 
 1. **Clone repository ini:**
    ```bash
-   git clone <url-repo-anda>
+   git clone https://github.com/Bayaniadamsasaki/cryptography-uas.git
    cd cryptography-exam
    ```
 2. **Install dependencies:**
    ```bash
    npm install
    # atau
-   pnpm install
+   npm install --legacy-peer-deps
    ```
 3. **Jalankan aplikasi dalam mode development:**
    ```bash
@@ -57,4 +57,4 @@ Aplikasi web interaktif untuk mempelajari dan mencoba berbagai algoritma kriptog
 - `public/` : Asset gambar
 
 ## Lisensi
-Proyek ini dibuat untuk tujuan pembelajaran. 
+2201020027 - Bayani Adam Sasaki
